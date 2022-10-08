@@ -23,7 +23,7 @@
   transition: width 0.3s ease-in-out 0s;
 }
 .slider-photo-div {
-    transition: all linear 0.5s;
+  transition: all linear 0.5s;
   display: inline-block;
   height: 380px;
   width: 250px;
@@ -41,7 +41,6 @@
   padding: 5px;
   transition: 0.3s ease-in-out 0s;
 }
-
 
 .slider-title-div {
   width: 100%;
@@ -64,9 +63,11 @@
   .slider-photo-div {
     display: none;
   }
-  .slider-title{
+  .slider-title-div {
+    width: 250px;
+  }
+  .slider-title {
     font-size: 30px;
     padding: 15px;
-
   }
 }

@@ -118,27 +118,30 @@
     width: 100%;
     margin: 0px;
   }
+  .about-title-div {
+    width: 250px;
+  }
   .about-title {
     font-size: 30px;
     padding: 15px;
   }
   .about-description-title {
-    font-size: 22px;
+    font-size: 26px;
     width: fit-content;
     padding: 10px;
   }
   .about-description-text {
-    font-size: 14px;
+    font-size: 18px;
     width: fit-content;
     padding: 10px;
   }
   .about-description-title2 {
-    font-size: 22px;
+    font-size: 26px;
     width: fit-content;
     padding: 10px;
   }
   .about-description-text2 {
-    font-size: 14px;
+    font-size: 18px;
     width: fit-content;
     padding: 15px;
   }

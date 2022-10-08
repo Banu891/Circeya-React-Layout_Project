@@ -45,7 +45,10 @@
     justify-content: space-between;
   }
   .header-logo {
-    margin-left: 0px;
+    margin-left: 15px;
+  }
+  .header-number-small {
+    padding-right: 15px;
   }
 }
 
