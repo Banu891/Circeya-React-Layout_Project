@@ -1,0 +1,91 @@
+.about {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.about-title-div {
+  width: 100%;
+}
+
+.about-title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  color: #141414;
+}
+
+.about-description1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 80px;
+  margin-right: 330px;
+  margin-bottom: 80px;
+}
+
+.about-description2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 80px;
+  margin-right: 330px;
+  margin-bottom: 80px;
+}
+
+.photo1 {
+  width: 500px;
+}
+.photo2 {
+  width: 500px;
+  height: 400px;
+  object-fit: cover;
+  object-position: 60% 40%;
+}
+.about-description-title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 110%;
+  display: flex;
+  align-items: center;
+  color: #141414;
+}
+
+.about-description-text {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  color: #141414;
+}
+.about-description-title2 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 110%;
+  display: flex;
+  align-items: center;
+  color: #141414;
+}
+
+.about-description-text2 {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  color: #141414;
+}
+
+.about-description1-wrapper {
+  margin-left: 100px;
+}
+
