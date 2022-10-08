@@ -42,8 +42,7 @@
   transition: 0.3s ease-in-out 0s;
 }
 
-.slider-photo:hover {
-}
+
 .slider-title-div {
   width: 100%;
   display: flex;
@@ -64,5 +63,10 @@
 @media (max-width: 960px) {
   .slider-photo-div {
     display: none;
+  }
+  .slider-title{
+    font-size: 30px;
+    padding: 15px;
+
   }
 }
